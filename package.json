@@ -1,11 +1,22 @@
 {
   "name": "create-react-vite",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.10",
   "description": "Minimal React Typescript Vite skeleton generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ultragliass/create-react-vite"
+  },
   "bin": {
     "create-react-vite": "./index.js"
   },
+  "keywords": [
+    "react",
+    "vite",
+    "create react app",
+    "cra",
+    "react app"
+  ],
   "author": "Michael Hahmigery",
   "license": "MIT",
   "dependencies": {
